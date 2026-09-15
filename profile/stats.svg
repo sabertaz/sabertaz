@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sabertaz&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 178, Total Commits  (last year) : 3143, Total PRs: 937, Total Issues: 284, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 178, Total Commits  (last year) : 3117, Total PRs: 937, Total Issues: 284, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 20.68841083297081;
+        stroke-dashoffset: 20.68892505075644;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -103,6 +104,7 @@
 
         
         <defs>
+          
           <linearGradient
             id="gradient"
             gradientTransform="rotate(30)"
@@ -110,11 +112,13 @@
           >
             <stop offset="0%" stop-color="#e96443" />,<stop offset="100%" stop-color="#904e95" />
           </linearGradient>
+          
         </defs>
         
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
