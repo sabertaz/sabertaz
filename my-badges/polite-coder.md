@@ -6,7 +6,7 @@ I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/wasabeef/awesome-android-ui/issues/96">#96</a>: Add Material Drawer and Material Animations lib
 - <a href="https://github.com/jmalicevic/EverythingGraph/issues/3">#3</a>: Infinite loop and segmentation fault bug for bfsgrid_cilk algorithm
-- <a href="https://github.com/sabertazimi/bod/issues/39">#39</a>: Bug: caniuse-lite outdated problem
+- <a href="https://github.com/sabertaz/bod/issues/39">#39</a>: Bug: caniuse-lite outdated problem
 - <a href="https://github.com/nihgwu/react-runner/issues/123">#123</a>: [Feature]: Add React 18 support for `react-live-runner`
 
 
