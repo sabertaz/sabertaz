@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/sabertazimi/hust-lab/commit/a2f5899bd062bf78ac46ef3ceb9eab508695d5e7">a2f5899</a>: Update(Lab Two): complete lab two yahooo
+- <a href="https://github.com/sabertaz/hust-lab/commit/a2f5899bd062bf78ac46ef3ceb9eab508695d5e7">a2f5899</a>: Update(Lab Two): complete lab two yahooo
 
 fucking bugs
 
